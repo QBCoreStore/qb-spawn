@@ -21,6 +21,7 @@ Apartments.SpawnOffset = 30
 -- target = true
 Apartments.UseTarget = true
 
+
 Apartments.Locations = {
     ["apartment1"] = {
         name = "apartment1",
