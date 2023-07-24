@@ -1,6 +1,9 @@
 # qb-spawn
 Fully remade qb-spawn. 
 
+If you like the new qb-spawn for you server. Feel free to give stars on the git.
+Also join on our discord: https://discord.gg/qbcoreframework 
+
 Fully free qb-spawn for your qbcore server. Replacement of qb-spawn
 
 ![Untitled-1](https://github.com/QBCoreStore/qb-spawn/assets/68699717/877a4150-08f4-4207-a58c-9356ca058c83)
